@@ -24,7 +24,7 @@ stages:
     displayName: 'Deploy MySQL to VM'
 
     environment:
-      name: 'VMLinuxDocker'
+      name: 'env-002agrupo9-sum3'
       resourceType: VirtualMachine
 
     strategy:
